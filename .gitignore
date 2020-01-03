@@ -1,0 +1,11 @@
+bin
+target
+release
+*.iml
+*.ipr
+*.iws
+*~
+*.new
+*.old
+/.idea
+*/__pycache__/
